@@ -1,2 +1,3 @@
-# carte_musicotherapeutes
-Carte des musicothérapeutes
+# Carte des Musicothérapeutes
+
+Script pour générer une carte `leaflet.js` avec la bibliothèque `Folium`.
